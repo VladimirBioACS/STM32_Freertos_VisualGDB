@@ -1,0 +1,5 @@
+C:/projects/STM32_Freertos_CubeMX/build/VisualGDB/Debug/CMakeFiles/BSP.dir
+C:/projects/STM32_Freertos_CubeMX/build/VisualGDB/Debug/CMakeFiles/edit_cache.dir
+C:/projects/STM32_Freertos_CubeMX/build/VisualGDB/Debug/CMakeFiles/STM32_Freertos_CubeMX.dir
+C:/projects/STM32_Freertos_CubeMX/build/VisualGDB/Debug/CMakeFiles/STM32_Freertos_CubeMX-bin.dir
+C:/projects/STM32_Freertos_CubeMX/build/VisualGDB/Debug/CMakeFiles/rebuild_cache.dir

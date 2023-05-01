@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "STM32_Freertos_CubeMX", "STM32_Freertos_CubeMX.vgdbcmake", "{7835B7A0-C98F-40E7-803D-38B166199B39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		MinSizeRel|VisualGDB = MinSizeRel|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+		RelWithDebInfo|VisualGDB = RelWithDebInfo|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7835B7A0-C98F-40E7-803D-38B166199B39}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{7835B7A0-C98F-40E7-803D-38B166199B39}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{7835B7A0-C98F-40E7-803D-38B166199B39}.MinSizeRel|VisualGDB.ActiveCfg = MinSizeRel|VisualGDB
+		{7835B7A0-C98F-40E7-803D-38B166199B39}.MinSizeRel|VisualGDB.Build.0 = MinSizeRel|VisualGDB
+		{7835B7A0-C98F-40E7-803D-38B166199B39}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{7835B7A0-C98F-40E7-803D-38B166199B39}.Release|VisualGDB.Build.0 = Release|VisualGDB
+		{7835B7A0-C98F-40E7-803D-38B166199B39}.RelWithDebInfo|VisualGDB.ActiveCfg = RelWithDebInfo|VisualGDB
+		{7835B7A0-C98F-40E7-803D-38B166199B39}.RelWithDebInfo|VisualGDB.Build.0 = RelWithDebInfo|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0794F2B8-2E6E-494A-965F-59EC5720D2BD}
+	EndGlobalSection
+EndGlobal
